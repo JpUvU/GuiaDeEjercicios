@@ -15,3 +15,8 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 2. Mantén cada posición entre 15 y 30 segundos.
 3. Respira profundamente mientras te estiras.
 4. Haz los ejercicios después del calentamiento o al final de la rutina.
+## Consejos
+- No fuerces demasiado el estiramiento, llega solo hasta donde tu cuerpo lo permita.
+- Haz los ejercicios de manera constante para ver resultados.
+- Combina la flexibilidad con ejercicios de fuerza y cardio.
+- Escucha a tu cuerpo y detente si sientes dolor.
