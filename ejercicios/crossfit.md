@@ -18,3 +18,9 @@ El CrossFit es un entrenamiento funcional de alta intensidad que combina ejercic
 3. Mantén una buena técnica en cada repetición.
 4. Ajusta la intensidad según tu nivel.
 5. Finaliza con estiramientos y movilidad articular.
+
+
+## Consejos
+- Prioriza la técnica sobre la velocidad o el peso.
+- No entrenes todos los días intensamente, respeta el descanso.
+- Consulta con un coach certificado si eres principiante.
