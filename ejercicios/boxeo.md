@@ -18,3 +18,9 @@ El boxeo es un deporte de alta intensidad que combina resistencia, fuerza y agil
 3. Incluye trabajo de pies y desplazamientos.
 4. Realiza sesiones de 3 minutos con descansos de 1 minuto.
 5. Termina con estiramientos y respiración profunda.
+
+
+## Consejos
+- Usa vendas y guantes para proteger tus manos.
+- Mantén una postura firme y el abdomen contraído.
+- Aprende la técnica básica antes de aumentar la intensidad.
