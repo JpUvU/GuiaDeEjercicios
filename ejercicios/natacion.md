@@ -16,3 +16,9 @@ La natación es un ejercicio de bajo impacto que trabaja todo el cuerpo y mejora
 2. Nada a un ritmo cómodo durante 20-30 minutos.
 3. Alterna estilos para trabajar distintos músculos.
 4. Finaliza con estiramientos suaves fuera del agua.
+
+
+## Consejos
+- No nades solo, especialmente si eres principiante.
+- Hidrátate, aunque no lo notes tanto en el agua.
+- Usa gafas y gorro para mayor comodidad.
