@@ -1,4 +1,4 @@
-﻿# Ejercicio Cardio
+# Ejercicio Cardio
 
 
 ## Descripción
